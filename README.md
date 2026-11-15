@@ -136,3 +136,7 @@ Method detail: [`event-scan-2026-11-15.md`](event-scan-2026-11-15.md).
 | `analyze.py`, `analyze2.py` | aggregations |
 | `make-chart.py` | chart script |
 | `event-scan-defect-2026-11-15.md` | broken view-function findings |
+
+## Live site
+
+Related research: https://n1netw3n.live/
